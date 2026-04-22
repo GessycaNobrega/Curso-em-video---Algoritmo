@@ -1,4 +1,4 @@
-algoritmo "Somador3"
+algoritmo "Contar1ate10"
 var
    N, S: Inteiro
    resp: Caractere
